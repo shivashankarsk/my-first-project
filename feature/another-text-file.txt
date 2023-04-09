@@ -3,3 +3,5 @@ line was removed in featur-2 branch
 line has been updated manually
 
 line is added in featur-2 branch
+
+another line in featur-2
